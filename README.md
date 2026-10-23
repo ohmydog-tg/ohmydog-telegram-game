@@ -8,6 +8,7 @@
   <b>Бесплатная idle / карточная RPG в Telegram — Free idle card RPG in Telegram</b><br>
   <a href="https://t.me/OhMyDogMobileBot">▶ https://t.me/OhMyDogMobileBot</a> ·
   <a href="https://ohmydog.gg">🌐 https://ohmydog.gg</a>
+  <br><a href="https://ohmydog.gg/game/game.html">Играть в браузере / Play in browser: https://ohmydog.gg/game/game.html</a>
 </p>
 
 <p align="center">
